@@ -12,4 +12,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1407-top-travellers) |
 | [3220-odd-and-even-transactions](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/3220-odd-and-even-transactions) |
+| [3421-find-students-who-improved](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/3421-find-students-who-improved) |
 <!---LeetCode Topics End-->
