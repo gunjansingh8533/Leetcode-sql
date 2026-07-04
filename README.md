@@ -13,4 +13,5 @@
 | [1407-top-travellers](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1407-top-travellers) |
 | [3220-odd-and-even-transactions](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/3421-find-students-who-improved) |
+| [3475-dna-pattern-recognition](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/3475-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
