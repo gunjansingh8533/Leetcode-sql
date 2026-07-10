@@ -21,4 +21,5 @@
 | [3497-analyze-subscription-conversion](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/3564-seasonal-sales-analysis) |
+| [3580-find-consistently-improving-employees](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/3580-find-consistently-improving-employees) |
 <!---LeetCode Topics End-->
