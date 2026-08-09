@@ -11,6 +11,7 @@
 | [1084-sales-analysis-iii](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1158-market-analysis-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1407-top-travellers) |
 | [1757-recyclable-and-low-fat-products](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1757-recyclable-and-low-fat-products) |
