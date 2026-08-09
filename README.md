@@ -15,6 +15,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1407-top-travellers) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1873-calculate-special-bonus) |
