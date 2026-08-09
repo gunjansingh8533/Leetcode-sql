@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/0180-consecutive-numbers) |
+| [0197-rising-temperature](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/0197-rising-temperature) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/0608-tree-node) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
