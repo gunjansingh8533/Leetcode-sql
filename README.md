@@ -8,6 +8,7 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/0608-tree-node) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1158-market-analysis-i) |
