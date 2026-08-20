@@ -21,6 +21,7 @@
 | [1407-top-travellers](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1407-top-travellers) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1661-average-time-of-process-per-machine) |
+| [1683-invalid-tweets](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1873-calculate-special-bonus) |
