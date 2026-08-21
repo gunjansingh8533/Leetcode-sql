@@ -10,6 +10,7 @@
 | [0577-employee-bonus](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/0577-employee-bonus) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/0608-tree-node) |
+| [0620-not-boring-movies](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/gunjansingh8533/Leetcode-sql/tree/master/1084-sales-analysis-iii) |
